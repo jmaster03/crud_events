@@ -1,7 +1,7 @@
 
 # Crud Events
 
-This is a simple CRUD to manage events with FullCalendar and Leaflet by Jesus medrano  
+This is a simple CRUD to manage events with FullCalendar and using Leaflet by Jesus Medrano  
 
 
 **************************
@@ -21,8 +21,6 @@ This is a simple CRUD to manage events with FullCalendar and Leaflet by Jesus me
 
 ### Edit
 ![img](https://i.ibb.co/gjsjwrn/edit.png)
-
-
 
 
 **************************
