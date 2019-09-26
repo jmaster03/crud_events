@@ -28,11 +28,11 @@ This is a simple CRUD to manage events by Jesus medrano
 **************************
 ## Resources used
 **************************
-[Full calendar](http://example.com/)  
-[Datatables](http://example.com/)  
+[Full calendar](https://fullcalendar.io/)  
+[Datatables](https://www.datatables.net/)  
 [Material Design for bootstrap
-](http://example.com/ "Title")  
-[Moment.js](http://example.com/ "Title")  
-[Tempus dominus for bootstrap](http://example.com/ "Title")  
+](https://mdbootstrap.com/)  
+[Moment.js](https://momentjs.com/)  
+[Tempus dominus for bootstrap 4](https://tempusdominus.github.io/bootstrap-4/)  
 
 
