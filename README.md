@@ -6,7 +6,7 @@ This is a simple CRUD to manage events with FullCalendar and using Leaflet by Je
 
 **************************
 ## VIEWS
-**************************
+
 ### Home
 ![img](https://i.ibb.co/fGrBzNp/Calendar.png)
 
@@ -22,10 +22,11 @@ This is a simple CRUD to manage events with FullCalendar and using Leaflet by Je
 ### Edit
 ![img](https://i.ibb.co/gjsjwrn/edit.png)
 
+**************************
 
 **************************
 ## Resources used
-**************************
+
 [Leaflet](https://leafletjs.com/)  
 [Full calendar](https://fullcalendar.io/)  
 [Datatables](https://www.datatables.net/)  
@@ -33,5 +34,6 @@ This is a simple CRUD to manage events with FullCalendar and using Leaflet by Je
 ](https://mdbootstrap.com/)  
 [Moment.js](https://momentjs.com/)  
 [Tempus dominus for bootstrap 4](https://tempusdominus.github.io/bootstrap-4/)  
+**************************
 
 
