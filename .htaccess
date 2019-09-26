@@ -1,0 +1,12 @@
+#AddHandler application/x-httpd-phpbetas .php
+
+RewriteEngine On
+#RewriteBase /http://localhost/
+
+RewriteBase /crud_events/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?/$1 [L]
+
+
+ErrorDocument 404 /index.php
