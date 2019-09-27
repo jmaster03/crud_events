@@ -1,7 +1,7 @@
 
 # Crud Events
 
-This is a simple CRUD to manage events with FullCalendar and using Leaflet by Jesus Medrano  
+This is a simple CRUD in Codeigniter to manage events with FullCalendar and using Leaflet by Jesus Medrano  
 
 
 **************************
